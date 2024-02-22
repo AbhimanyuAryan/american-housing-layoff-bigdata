@@ -26,3 +26,5 @@ This research is poised to contribute valuable insights to both the academic fie
 **PL1**: We will study all over effect of layoffs on USA tech industry and its effect on real estate prices.
 
 💡 We will also study the effect of layoffs on the real estate prices of the cities where the layoffs are happening.
+
+> Professor Email: regina.sousa@algoritmi.uminho.pt
