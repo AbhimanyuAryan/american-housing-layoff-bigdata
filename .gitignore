@@ -1,0 +1,5 @@
+*.tsv000
+*.parquet
+*.zip
+*.ipynb_checkpoints
+*.xlsx
